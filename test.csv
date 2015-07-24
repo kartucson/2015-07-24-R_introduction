@@ -1,4 +1,8 @@
-Object,Sweetness,Crunchiness,Annual_produce_rate,Relative_cost,food_type
-strawberry,9,8,4,70,fruit
-potato,3,7,13,18,vegetable
-soya,3,4,15,10,proteins
+Object,Sweetness,Crunchiness,Annual_produce_rate,Relative_cost,food_type,
+strawberry,9,8,4,70,fruit,fruit
+potato,3,7,13,18,vegetable,vegetable
+soya,3,4,15,10,proteins,proteins
+beetroot,6,7,,,,fruit
+raddish,3,6,,,,vegetable
+cherry,8,8,,,,fruit
+kiwi,8,9,,,,fruit
